@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vipulsinghofficial/portfolio/static/css/main.68e71262.chunk.css",
-    "main.js": "/vipulsinghofficial/portfolio/static/js/main.bc732474.chunk.js",
-    "main.js.map": "/vipulsinghofficial/portfolio/static/js/main.bc732474.chunk.js.map",
+    "main.js": "/vipulsinghofficial/portfolio/static/js/main.8242eaed.chunk.js",
+    "main.js.map": "/vipulsinghofficial/portfolio/static/js/main.8242eaed.chunk.js.map",
     "runtime-main.js": "/vipulsinghofficial/portfolio/static/js/runtime-main.da956f1d.js",
     "runtime-main.js.map": "/vipulsinghofficial/portfolio/static/js/runtime-main.da956f1d.js.map",
     "static/js/2.cff82c1f.chunk.js": "/vipulsinghofficial/portfolio/static/js/2.cff82c1f.chunk.js",
     "static/js/2.cff82c1f.chunk.js.map": "/vipulsinghofficial/portfolio/static/js/2.cff82c1f.chunk.js.map",
     "index.html": "/vipulsinghofficial/portfolio/index.html",
-    "precache-manifest.bd92be52fff961ecc90029b1565b6bc8.js": "/vipulsinghofficial/portfolio/precache-manifest.bd92be52fff961ecc90029b1565b6bc8.js",
+    "precache-manifest.e4ffe7ea5a20bbe5ee8608716c4a7c8e.js": "/vipulsinghofficial/portfolio/precache-manifest.e4ffe7ea5a20bbe5ee8608716c4a7c8e.js",
     "service-worker.js": "/vipulsinghofficial/portfolio/service-worker.js",
     "static/css/main.68e71262.chunk.css.map": "/vipulsinghofficial/portfolio/static/css/main.68e71262.chunk.css.map",
     "static/js/2.cff82c1f.chunk.js.LICENSE.txt": "/vipulsinghofficial/portfolio/static/js/2.cff82c1f.chunk.js.LICENSE.txt",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.da956f1d.js",
     "static/js/2.cff82c1f.chunk.js",
     "static/css/main.68e71262.chunk.css",
-    "static/js/main.bc732474.chunk.js"
+    "static/js/main.8242eaed.chunk.js"
   ]
 }

@@ -119,7 +119,7 @@ const Contact = () => {
 
         if (!validationState.validation) {
 
-            fetch('https://my-porfolio-c6e89.firebaseio.com/messages.json', {
+            fetch('https://portfolio-4752e.firebaseio.com/messages.json', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'

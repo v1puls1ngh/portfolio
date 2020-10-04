@@ -26,7 +26,7 @@ class Work extends Component{
         })
 
 
-        fetch('https://my-porfolio-c6e89.firebaseio.com/get-project-display.json').then(result => {
+        fetch('https://portfolio-4752e.firebaseio.com/get-project-display.json').then(result => {
             return result.json();
         }).then(resData => {
             let responseData = []

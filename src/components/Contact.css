@@ -1,0 +1,117 @@
+.contact-container{
+    padding-top: 2rem;
+}
+
+.error{
+    width: 200px;
+    border: solid red;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0.3rem;
+    background-color: lightcoral;
+}
+
+.success{
+    width: 200px;
+    border: solid green;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0.3rem;
+    background-color: lightgreen;
+}
+
+.contact-container > h2{
+    text-align: center;
+    margin: 1rem;
+}
+
+.contact-form-container{
+    width: 40%;
+    margin: 0 auto;
+}
+
+.contact-form-container > input {
+    width: 95%;
+    margin: 0.1rem auto;
+    padding: 0.5rem;
+    font-size: 1em;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border-color: black;
+    outline-style: none;
+    display: block;
+}
+
+.contact-form-container > input:focus {
+    outline: none;
+}
+
+.contact-form-container > textarea {
+    width: 95%;
+    resize: none;
+    display: block;
+    margin: 0.1rem auto;
+    padding: 0.5rem;
+    font-size: 1em;
+    box-sizing: border-box;
+    height: 150px;
+    border-radius: 10px;
+    border-color: black;
+    outline-style: none;
+    border-width: 2px;
+}
+
+.contact-form-container > button {
+    display: block;
+    width: 100px;
+    margin: 0 auto;
+    padding: 0.3rem;
+    font-size: 1em;
+    font-weight: bold;
+    border-radius: 10px;
+    border-color: black;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+
+.contact-container > h1{
+    text-align: center;
+    margin: 1rem;
+}
+
+.contact-container > h3{
+    text-align: center;
+    margin: 1rem;
+}
+
+.contact-text {
+    margin-bottom: 2rem;
+}
+
+.emailAdd{
+    color: gray;
+    font-size: 1.2em;
+    margin-bottom: 2rem;
+}
+
+@media (max-width: 1024px) {
+    .contact-form-container {
+        width: 60%;
+    }
+}
+
+@media (max-width: 420px) {
+    .contact-container{
+        padding-top: 0.5rem;
+    }
+    .contact-container > h3 {
+        margin: 0.5rem;
+
+    }
+    .contact-form-container{
+        width: 100%;
+    }
+}

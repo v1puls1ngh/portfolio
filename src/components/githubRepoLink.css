@@ -1,0 +1,31 @@
+.repo-link {
+    text-decoration: none;
+
+}
+
+.repo-link-container{
+    /* background-color: black; */
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+}
+.repo-link-container > img{
+    display: block;
+    margin: 0 auto;
+    width: 120px;
+    height: 90px;
+}
+
+@media (max-width: 420px) {
+    .repo-link-container{
+        width: 100px;
+        margin: 1rem;
+    }
+    .repo-link-container > img {
+        width: 80px;
+        height: 60px;
+    }
+    .repo-link-container > h3 {
+        font-size: 1em;
+    }
+}

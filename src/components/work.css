@@ -1,0 +1,58 @@
+.project-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+}
+
+.repo-list-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-items: self-start;
+}
+
+.error {
+    width: 200px;
+    border: solid red;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0.3rem;
+    background-color: lightcoral;
+}
+
+.work-to-about {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    width: 100px;
+    border: solid lightseagreen;
+    display: block;
+    margin: 4rem auto;
+    text-align: center;
+    padding: 0.5rem;
+    font-size: 1em;
+    border-radius: 10px;
+    outline: none;
+    background-color: lightseagreen;
+}
+
+@media (max-width: 800px) {
+    .repo-list-container {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    .project-list {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width: 420px) {
+    .repo-list-container{
+        grid-template-columns: 1fr 1fr;
+        justify-items: center;
+    }
+    .project-list{
+        justify-content: center;
+    }
+}

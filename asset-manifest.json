@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/vipulsinghofficial/portfolio/static/css/main.68e71262.chunk.css",
+    "main.js": "/vipulsinghofficial/portfolio/static/js/main.bc732474.chunk.js",
+    "main.js.map": "/vipulsinghofficial/portfolio/static/js/main.bc732474.chunk.js.map",
+    "runtime-main.js": "/vipulsinghofficial/portfolio/static/js/runtime-main.da956f1d.js",
+    "runtime-main.js.map": "/vipulsinghofficial/portfolio/static/js/runtime-main.da956f1d.js.map",
+    "static/js/2.cff82c1f.chunk.js": "/vipulsinghofficial/portfolio/static/js/2.cff82c1f.chunk.js",
+    "static/js/2.cff82c1f.chunk.js.map": "/vipulsinghofficial/portfolio/static/js/2.cff82c1f.chunk.js.map",
+    "index.html": "/vipulsinghofficial/portfolio/index.html",
+    "precache-manifest.bd92be52fff961ecc90029b1565b6bc8.js": "/vipulsinghofficial/portfolio/precache-manifest.bd92be52fff961ecc90029b1565b6bc8.js",
+    "service-worker.js": "/vipulsinghofficial/portfolio/service-worker.js",
+    "static/css/main.68e71262.chunk.css.map": "/vipulsinghofficial/portfolio/static/css/main.68e71262.chunk.css.map",
+    "static/js/2.cff82c1f.chunk.js.LICENSE.txt": "/vipulsinghofficial/portfolio/static/js/2.cff82c1f.chunk.js.LICENSE.txt",
+    "static/media/blueFolder.png": "/vipulsinghofficial/portfolio/static/media/blueFolder.8d41cf7c.png",
+    "static/media/c.png": "/vipulsinghofficial/portfolio/static/media/c.b4dd4c5e.png",
+    "static/media/creativity-concept.jpg": "/vipulsinghofficial/portfolio/static/media/creativity-concept.fd45217e.jpg",
+    "static/media/css3.png": "/vipulsinghofficial/portfolio/static/media/css3.5164d8ff.png",
+    "static/media/design-thinking.jpg": "/vipulsinghofficial/portfolio/static/media/design-thinking.ddafda7c.jpg",
+    "static/media/java.png": "/vipulsinghofficial/portfolio/static/media/java.652fdb65.png",
+    "static/media/js.png": "/vipulsinghofficial/portfolio/static/media/js.c2e0ad94.png",
+    "static/media/mongodb.png": "/vipulsinghofficial/portfolio/static/media/mongodb.fc44a3bd.png",
+    "static/media/node.png": "/vipulsinghofficial/portfolio/static/media/node.4c6c0929.png",
+    "static/media/postgres.png": "/vipulsinghofficial/portfolio/static/media/postgres.64eb742e.png",
+    "static/media/python.png": "/vipulsinghofficial/portfolio/static/media/python.22eeecf9.png",
+    "static/media/react.png": "/vipulsinghofficial/portfolio/static/media/react.2d2b0d56.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da956f1d.js",
+    "static/js/2.cff82c1f.chunk.js",
+    "static/css/main.68e71262.chunk.css",
+    "static/js/main.bc732474.chunk.js"
+  ]
+}
